@@ -1,5 +1,5 @@
 def base_hash
-  first_hash[:railroads]={}
+  first_hash=:railroads => {}
 
 end
 
